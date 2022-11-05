@@ -62,8 +62,8 @@
       35,
       36
     ],
-    "visible_layers": "ffcc000_ffffffff",
-    "zone_display_mode": 1
+    "visible_layers": "ffcf000_ffffffff",
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "GETWAY_v2.kicad_prl",
