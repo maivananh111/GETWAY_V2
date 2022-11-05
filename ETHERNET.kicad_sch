@@ -3415,8 +3415,8 @@
     (pin "6" (uuid d6ce2f20-3ca3-4e08-9d32-39b0f67012ba))
     (pin "8" (uuid e2a80d84-1893-4d6b-91b8-33e12fd2acb6))
     (pin "9" (uuid 0305db50-5c8b-4751-8254-fc83f8e329e7))
-    (pin "SH" (uuid ee961cd3-fd66-4ee6-aec7-9aa77508b696))
-    (pin "SH" (uuid ee961cd3-fd66-4ee6-aec7-9aa77508b696))
+    (pin "SH" (uuid ee961cd3-fd66-4ee6-aec7-9aa77508b697))
+    (pin "SH" (uuid ee961cd3-fd66-4ee6-aec7-9aa77508b697))
   )
 
   (symbol (lib_id "Device:C_Small") (at 111.125 102.235 270) (mirror x) (unit 1)
